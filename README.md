@@ -122,5 +122,8 @@ Hi! I’m **Naveena Chatti**, a results-driven **Data Scientist** with 7+ years 
 - **GitHub**: [github.com/naveena-chatti](https://github.com/naveena-chatti)
 
 ---
+## My Stats
+![Naveena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenaChatti&show_icons=true&count_private=true&hide_title=true)
+
 
 *Let’s connect and use data to make a measurable difference!* 🚀
