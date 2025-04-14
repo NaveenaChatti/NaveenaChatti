@@ -58,27 +58,37 @@ Hi! I’m **Naveena Chatti**, a results-driven **Data Scientist** with 7+ years 
 
 ## 📊 Projects
 
-### 🔹 Customer Segmentation App  
-- Built with **Streamlit + K-Means** on 541K+ Walmart records  
-- Segmented customers by age and spending behavior → Silhouette Score: **0.48**
+### 🔹 [Customer Segmentation App](https://github.com/NaveenaChatti/Customer_Segmentation_App)
+- Built with **Streamlit + K-Means** using Walmart customer data (541K+ records)  
+- Segmented customers based on age and spending behavior  
+- Achieved a **Silhouette Score** of 0.48 to define optimal clusters
 
-### 🔹 End-to-End Azure Data Pipeline  
-- Developed scalable data pipelines using **Azure ADF, Databricks, Synapse**  
-- Extracted and transformed data from MongoDB/SQL using **Medallion Architecture** → enabled real-time insights
+---
 
-### 🔹 Emotion Detection Model (LSTM)  
-- Classified 23K+ airline reviews into 6 emotions using LSTM  
-- Helped airlines understand **emotional trends** and improve service delivery
+### 🔹 [Emotion Detection Model](https://github.com/NaveenaChatti/Emotion_Detection)
+- Developed a **LSTM-based model** to classify 23K+ airline reviews into 6 emotions  
+- Leveraged NLP techniques and deep learning for **automated sentiment analysis**  
+- Enabled airlines to track emotional trends and improve customer service
 
-### 🔹 Market Basket Analysis  
-- Applied **Apriori & FP-Growth** on 541K+ retail transactions  
-- Found cross-selling product relationships → validated with Chi-Square test and visualized associations
+---
+
+### 🔹 [Market Basket Analysis (Apriori Algorithm)](https://github.com/NaveenaChatti/Market-Basket-Analysis-using-Apriori-Algorithm)
+- Analyzed 541K+ online retail transactions using **Apriori & FP-Growth**  
+- Discovered strong **association rules** between items (e.g., teacups ↔ wicker items)  
+- Used **Chi-Square Test** and visualizations to optimize product placement and promotions
+
+---
+
+### 🔹 [E-commerce Analytics Pipeline](https://github.com/NaveenaChatti/EcommerceProject)
+- Built a full-stack **data engineering & analytics pipeline** for e-commerce data  
+- Extracted data using Azure Data Factory and transformed it in **Databricks**  
+- Integrated with Azure Synapse for real-time dashboards and insights
 
 ---
 
 ## 🧠 Research & Publications
 
-- **IEEE CAI AI 2025 (Accepted)**: *Deep Learning-Based Detection of Osteoporosis in X-ray Images* – May 2025, Santa Clara, CA
+- **IEEE CAI AI 2025 (Accepted)**: *Multinomial - Deep Learning-Based Detection of Osteoporosis in X-ray Images* – May 2025, Santa Clara, CA
 
 ---
 
