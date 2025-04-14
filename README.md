@@ -103,7 +103,7 @@ Hi! I’m **Naveena Chatti**, a results-driven **Data Scientist** with 7+ years 
 ## 📚 Education
 
 - **M.S. Data Analytics** – Clark University, MA | GPA: 3.96  
-- **M.S. Mathematics** – Osmania University
+- **M.S. Mathematics** – Osmania University, India | GPA: 3.30
 
 ---
 
