@@ -118,8 +118,8 @@ Hi! I’m **Naveena Chatti**, a results-driven **Data Scientist** with 7+ years 
 ## 📫 Contact
 
 - **Email**: n.chatti2023@gmail.com  
-- **LinkedIn**: [linkedin.com/in/naveena-chatti](https://www.linkedin.com/in/naveena-chatti)  
-- **GitHub**: [github.com/naveena-chatti](https://github.com/naveena-chatti)
+- **LinkedIn**: [linkedin.com/in/naveenachatti](https://www.linkedin.com/in/naveenachatti)  
+- **GitHub**: [github.com/naveenachatti](https://github.com/naveenachatti)
 
 ---
 ## My Stats
